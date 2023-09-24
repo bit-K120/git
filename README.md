@@ -8,5 +8,5 @@ line 7
 
 topic-A
 
-topic-A.2
+topic-B
 
